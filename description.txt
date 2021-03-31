@@ -1,0 +1,5 @@
+PERN react, bootstrap
+Edit to do, input, list todos
+Css
+Sql database pg pool
+Express, cors, 
